@@ -7,4 +7,4 @@ The webpage is divided into **four** main sections:
 3. My skills (software, coding languages etc...)
 4. Contact Details
 
-Additionally, the webpage also includes hyperlinks to my pages on [LinkedIn] (https://www.linkedin.com/in/michael-gordon13/), [GitHub] (https://github.com/g010645m/) and [Twitter] (https://twitter.com/Asgardian1311).
+Additionally, the webpage also includes hyperlinks to my pages on [LinkedIn] (https://www.linkedin.com/in/michael-gordon13/) and [GitHub] (https://github.com/g010645m/).
