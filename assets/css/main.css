@@ -2369,22 +2369,40 @@ input, select, textarea {
 		position: relative;
 	}
 
-		.form-nivel label:nth-child(1) {
-			width: 160px;
-			float: left;
-			height: 20px;
-			line-height: 20px;
-			margin-right: 10px;
-			text-align: right;
+		.image img {
+			border-radius: 8px;
+			display: block;
 		}
 
-		.form-nivel label:nth-child(2) {
-			width: 160px;
-			height: 20px;
-			line-height: 20px;
-			margin-right: 10px;
-			text-align: right;
+		.image.left, .image.right {
+			max-width: 40%;
 		}
+
+			.image.left img, .image.right img {
+				width: 100%;
+			}
+
+		.image.left {
+			float: left;
+			margin: 0 1.5em 1em 0;
+			top: 0.25em;
+		}
+
+		.image.right {
+			float: right;
+			margin: 0 0 1em 1.5em;
+			top: 0.25em;
+		}
+
+		.image.fit {
+			display: block;
+			margin: 0 0 2em 0;
+			width: 100%;
+		}
+
+			.image.fit img {
+				width: 100%;
+			}
 
 		.image.main {
 			display: block;
